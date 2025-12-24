@@ -23,7 +23,7 @@ It provides insights into sales performance, customer behavior, and top-selling 
 - `screenshots/` → Dashboard images
 
 ## 📷 Dashboard Preview
-![Pizza Sales Dashboard](screenshots/dashboard_overview.png)
+![Pizza Sales Dashboard](Pizza_Sales_Dash.png)
 
 ## 🚀 How to Use
 1. Download the `.pbix` file.
